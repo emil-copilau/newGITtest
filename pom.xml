@@ -8,6 +8,7 @@
     <artifactId>Test1</artifactId>
     <version>1.0</version>
 
+	<packaging>maven-plugin</packaging>
     <dependencies>
     <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
